@@ -1,9 +1,5 @@
 # My Personal Blog
 
-## Overview
-Welcome to my personal blog project! This blog is a reflection of my journey, thoughts, and experiences. Built using HTML and CSS, it showcases my technical skills and creative approach to web development.
-
-## Features
 - **Custom Design**: A unique layout and styling that represents my personal brand.
 - **Responsive**: Ensures a seamless experience across various devices.
   
